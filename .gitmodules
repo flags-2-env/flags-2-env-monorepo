@@ -1,0 +1,47 @@
+[submodule "apps/flags-2-env-api-server.rs"]
+	path = apps/flags-2-env-api-server.rs
+	url = https://github.com/flags-2-env/flags-2-env-api-server.rs.git
+
+[submodule "apps/flags-2-env-web-server.rs"]
+	path = apps/flags-2-env-web-server.rs
+	url = https://github.com/flags-2-env/flags-2-env-web-server.rs.git
+
+[submodule "apps/flags-2-env-infra"]
+	path = apps/flags-2-env-infra
+	url = https://github.com/flags-2-env/flags-2-env-infra.git
+
+[submodule "apps/flags-2-env-lib-core"]
+	path = apps/flags-2-env-lib-core
+	url = https://github.com/flags-2-env/flags-2-env-lib-core.git
+
+[submodule "apps/flags-2-env-interfaces"]
+	path = apps/flags-2-env-interfaces
+	url = https://github.com/flags-2-env/flags-2-env-interfaces.git
+
+[submodule "apps/flags-2-env-clients"]
+	path = apps/flags-2-env-clients
+	url = https://github.com/flags-2-env/flags-2-env-clients.git
+
+[submodule "apps/flags-2-env-cli"]
+	path = apps/flags-2-env-cli
+	url = https://github.com/flags-2-env/flags-2-env-cli.git
+
+[submodule "apps/flags-2-env-sync"]
+	path = apps/flags-2-env-sync
+	url = https://github.com/flags-2-env/flags-2-env-sync.git
+
+[submodule "apps/flags-2-env-e2e"]
+	path = apps/flags-2-env-e2e
+	url = https://github.com/flags-2-env/flags-2-env-e2e.git
+
+[submodule "apps/flags-2-env-flutter"]
+	path = apps/flags-2-env-flutter
+	url = https://github.com/flags-2-env/flags-2-env-flutter.git
+
+[submodule "apps/flags-2-env-desktop-app.rs"]
+	path = apps/flags-2-env-desktop-app.rs
+	url = https://github.com/flags-2-env/flags-2-env-desktop-app.rs.git
+
+[submodule "apps/flags-2-env-sidecar.rs"]
+	path = apps/flags-2-env-sidecar.rs
+	url = https://github.com/flags-2-env/flags-2-env-sidecar.rs.git
